@@ -1,0 +1,11 @@
+ .row {
+     margin: 10px;
+ }
+
+ .row img {
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+     align-self: center;
+     margin: 5px;
+ }
