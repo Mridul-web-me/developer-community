@@ -1,6 +1,6 @@
 # Building up a developer community
 
-This project was bootstrapped with [Create React App](https://keen-kare-119dfb.netlify.app/).
+This project was bootstrapped with [Go To Our Website](https://keen-kare-119dfb.netlify.app/).
 
 ## Available Scripts
 
