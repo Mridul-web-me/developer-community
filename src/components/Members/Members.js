@@ -38,10 +38,7 @@ return (
            
        </div>
        <div className="cart-container">
-           {/* <h3>Items Order</h3>
-           <h4>Total: {cart.length} </h4> */}
            <Cart cart={cart}></Cart>
-           
        </div>
     </div>
 );
