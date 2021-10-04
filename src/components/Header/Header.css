@@ -4,11 +4,12 @@ html {
 }
 
 .header {
-    background-color: aqua;
+    background-color: darkcyan;
     padding: 10px;
     text-align: center;
     font-weight: 800;
     border-radius: 20px;
+    color: #fff;
 }
 
 h1 {
