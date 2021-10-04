@@ -1,9 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import Developer from '../Developers/Developer';
-
 import Cart from '../Cart/Cart';
 import './Members.css';
-
 
 
 const Members = () => {
